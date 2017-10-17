@@ -51,7 +51,7 @@
         {"name":"黑玄视频","url":"http://www.heixuan.vip/jiexi/index.php?url=","title":"支持腾讯"},
         {"name":"panda[kkflv]","url":"http://www.97panda.com/kkflv/index.php?url=","title":"支持腾讯"},
         {"name":"6eac[腾]","url":"http://api.6eac.com/xnflv/index.php?url=","title":"支持腾讯"},
-        {"name":"s8zy","url":"http://www.s8zy.cn/vip/index.php?url=","title":"支持腾讯"},
+        {"name":"s8zy","url":"http://api.662820.com/xnflv/index.php?url=","title":"支持腾讯"},
         {"name":"vParse[腾]","url":"https://api.vparse.org/?url=","title":"支持腾讯"},
         //{"name":"FLVSP[腾讯]","url":"https://api.flvsp.com/?url=","title":"支持腾讯"},//解析源同上
         {"name":"噗噗电影","url":"http://pupudy.com/play?make=url&id=","title":"综合接口，稳定·全网VIP*【作者ttmsjx】脚本的接口"},
